@@ -1,1 +1,1 @@
-# .github
+# KAIROS Regenerative Agri & Food Systems
